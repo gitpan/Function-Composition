@@ -1,4 +1,5 @@
-use Modern::Perl;
+use warnings;
+use strict;
 use Test::More;
 
 use Function::Composition qw(compose);

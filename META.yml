@@ -22,4 +22,4 @@ no_index:
 resources:
   license: http://opensource.org/licenses/mit-license.php
   repository: https://github.com/shelling/function-composition
-version: 0.0.1
+version: 0.0.2
